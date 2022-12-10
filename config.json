@@ -1,13 +1,13 @@
 {
     "SESSION_FILE_NAME": "string_session_bot",
-    "API_ID": ,
-    "API_HASH": "",
-    "BOT_TOKEN": "",
-    "MONGO_DB_URI": [""],
+    "API_ID":"17568815" ,
+    "API_HASH": "177622d39f23e7c3d015f3d6ebaacd31",
+    "BOT_TOKEN": "5569343266:AAH-40lSBoyk44Ipn1MqWtrheBgkeySuSNI",
+    "MONGO_DB_URI": ["mongodb+srv://Abasof:Abasoff@cluster0.pxxt17e.mongodb.net/?retryWrites=true&w=majority"],
     "TOTAL_TIMEOUT": 120,
     "BY_DEFAULT_LANGS": ["ENGLISH"],
-    "HELP_SUPPORT_GROUP": "@HelpSupportChat",
-    "BOT_OWNERS": [5119313903],
-    "DEVS": [5119313903],
+    "HELP_SUPPORT_GROUP": "@oldsupport",
+    "BOT_OWNERS": [5508658149],
+    "DEVS": [5508658149],
     "SPECIAL_USERS": []
 }
